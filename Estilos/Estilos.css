@@ -1,0 +1,20 @@
+/* Si es display block completa la linea si es display in line no completa la linea
+
+pseudoclase es crear un evento para algún atributo como pasar el mouse y que cambie de color
+
+TIPOGRAFIA 
+font-size: em (medida relativa) 1em = 16px, las medidas se heredan al usar una medida anterior
+
+*/
+@import url(menu.css);
+@import url(barra--L.css);
+@import url(barra--R.css);
+@import url(info--p.css);
+*{
+    font-family: 'Raleway', sans-serif;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+body{
+    background: #fff;
+}
