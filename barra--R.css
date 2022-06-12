@@ -1,0 +1,14 @@
+aside{
+    margin: 100px;
+    padding: auto;
+    
+}
+.page--r{
+    text-align: center;
+}
+.page--r table{
+    background-color: rgb(135, 184, 102);
+}
+.page--r aside table{
+    position:relative; top:23px; right: 20px;
+}
